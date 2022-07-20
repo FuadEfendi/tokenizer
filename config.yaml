@@ -1,0 +1,37 @@
+baseURL: https://www.tokenizer.ca/
+languageCode: en-us
+title: Tokenizer Inc.
+theme: Eclectic
+author:
+  facebook: "https://www.facebook.com/Tokenizer-Inc-110345541752720"
+  twitter: "https://twitter.com/TokenizerCA"
+  email: "info@tokenizer.ca"
+  name: "Fuad Efendi, Founder, Tokenizer Inc."
+  location: Toronto, Canada
+  phone: (416) 993-2060
+  hours: "**Mon-Fri:** 9:00AM - 6:00PM, ET"
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about
+      weight: 100
+    - identifier: contact
+      name: Contact
+      url: /contact
+      weight: 200
+params:
+  color: "#4f46e5"
+  copyright: "Copyright &copy; 2022 Bambarbia Corporation.
+    All Rights Reserved."
+  footer:
+    - title: About
+      content: >
+        Tokenizer provides consulting services in Machine Learning, Data Mining, Recommender Systems, Search, and AI; welcome to Tokenizer!  
+        "We shape the world. You live in it."
+    - title: Recent Blog Posts
+      recents: blog
+      recentCount: 7
+    - title: Contact Us
+      contact: true
