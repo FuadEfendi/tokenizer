@@ -6,6 +6,17 @@
     {{- partialCached "core/resources.html" . -}}
     {{- end -}}
     {{- block "head" . }}{{- end }}
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZFN3NZTNJR"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-ZFN3NZTNJR');
+    </script>
+
 </head>
     <body>
         {{- partial "header.html" . -}}
