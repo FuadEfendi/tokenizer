@@ -2,6 +2,7 @@ baseURL: /
 languageCode: en-us
 title: Tokenizer Inc.
 theme: Eclectic
+enableRobotsTXT: true
 author:
   facebook: "https://www.facebook.com/TokenizerCA"
   twitter: "https://twitter.com/TokenizerCA"
