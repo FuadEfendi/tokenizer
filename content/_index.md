@@ -3,7 +3,7 @@ title: Introduction to Tokenizer
 type: docs
 ---
 
-# From Top 10 Canadian Banks to Startups
+# Consulting Services: Lucene/Solr, Elasticsearch, NoSQL
 
 Our Elasticsearch & Apache Solr expertise is top-notch. Many of our customers have reengaged us a second or third time. Tokenizer provides comprehensive service to each client: from consulting and development support, production support to proprietary solutions and Solr & Elasticsearch training.
 
